@@ -2,7 +2,7 @@
 # Clinikk Intern Task
 
 Backend URL (deployed): https://clinikkinterntask.onrender.com (Might take a few seconds to send the first request at it restarts the server on render free version.)
-
+Documentation of API's : https://www.postman.com/mission-technologist-16789681/workspace/clinikkinterntask/collection/36499112-0a884635-9bb1-474d-8d61-416b94694767?action=share&creator=36499112
 ## Tech Stack 
 1. NodeJS
 2. Express
