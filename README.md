@@ -3,6 +3,9 @@
 
 Backend URL (deployed): https://clinikkinterntask.onrender.com (Might take a few seconds to send the first request at it restarts the server on render free version.)
 Documentation of API's : https://www.postman.com/mission-technologist-16789681/workspace/clinikkinterntask/collection/36499112-0a884635-9bb1-474d-8d61-416b94694767?action=share&creator=36499112
+(Uploading files to cloud and redis caching is not implemented basic CRUDS are implemented... Azure BLOB or AWS S3 cloud storages can be integrated further to store the media in containers which can handle all kinds of media uploading and retireval using presigned URL's)
+
+
 ## Tech Stack 
 1. NodeJS
 2. Express
